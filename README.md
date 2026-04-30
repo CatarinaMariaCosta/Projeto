@@ -15,6 +15,6 @@ Já o Frount-end utilizamos o CSS, que é a parte que estiliza, define cores, fo
 <img width="481" height="195" alt="image" src="https://github.com/user-attachments/assets/7531f282-93c2-4725-b568-34e5c932bfca" />
 <img width="480" height="182" alt="image" src="https://github.com/user-attachments/assets/ff83b4e3-88d0-4768-8bef-1b833c74ab9c" />
 
-E com o ecelente trabalho do  professor conseguimos o resultado abaixo:
+E com o excelente trabalho do  professor Luiz Henrique Platini conseguimos o resultado abaixo:
 
 <img width="451" height="236" alt="image" src="https://github.com/user-attachments/assets/7dee6bda-6fbb-403b-bbfa-e79909b29973" />
